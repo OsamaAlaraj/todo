@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+Application for record tasks.
 
 ## Getting Started
 
